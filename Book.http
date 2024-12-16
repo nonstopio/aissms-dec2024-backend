@@ -1,0 +1,16 @@
+POST http://localhost:3000/api/book
+Content-Type: application/json
+
+{
+    "title": "All about AISSMS workshop",
+    "author": "AISSM's Student",
+    "publishedYear": "2024",
+    "genre": "General"
+}
+
+###
+
+http://localhost:3000/api/book
+
+###
+
